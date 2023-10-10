@@ -5,5 +5,5 @@
 - [Virtual 7.0.10](https://www.virtualbox.org/wiki/Downloads)
 
 ### Descarga configuración
-- [Instalación y configuración DHCP]
+- [Instalación y configuración DHCP](DHCP.pdf)
 
